@@ -1,4 +1,4 @@
-# Hi, I'm Ruzolut
+# Hello, I'm Ruzolut
 
 I'm a software engineer currently building Fakyo Terminal — a blockchain-based platform for creating a permanent, verifiable public record of disapproval using Solana smart contracts.
 
@@ -9,7 +9,7 @@ I'm a software engineer currently building Fakyo Terminal — a blockchain-based
 - Interested in working on meaningful and technically challenging projects
 
 ## Contact
-- X/ Twitter: [@ruzolut](https://x.com/ruzolut)
+- X / Twitter: [@ruzolut](https://x.com/ruzolut)
 - Email: [ruzolut@gmail.com](mailto:ruzolut@gmail.com)
 - GitHub: [github.com/ruzolut](https://github.com/ruzolut)
 
