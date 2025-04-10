@@ -1,14 +1,25 @@
-# Hey, my name is Rauf
+# Hi, I'm Ruzolut
 
-- 🌱  I’m currently learning advanced JavaScript, TypeScript and GraphQL, Microservices, Docker & Kubernetes.
-- 🔭  I’m looking to collaborate with people on interesting projects.
-- 💬  Ask me anything concerning software engineering.
-- 📫  How to reach me? send an email to [rofazayn@gmail.com](rofazayn@gmail.com)
+I'm a software engineer currently building Fakyo Terminal — a blockchain-based platform for creating a permanent, verifiable public record of disapproval using Solana smart contracts.
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rofazayn&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true) -->
-<!--![Abderraouf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofazayn&show_icons=true&theme=dark) -->
-<!-- [![GitHub streak](http://github-readme-streak-stats.herokuapp.com?user=rofazayn&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&ring=6BDE84&fire=6BDE84&currStreakLabel=6BDE84)](https://git.io/streak-stats) -->
-<!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rofazayn&langs_count=10&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true) -->
+## 🧠 About Me
+- 💻 Background in full-stack development with a Master's in IT
+- 🌱 Currently focused on Solana, Rust (Anchor), and modern web3 stacks
+- 📦 Familiar with TypeScript, GraphQL, Microservices, Docker & Kubernetes
+- 🔍 Interested in working on meaningful and technically challenging projects
 
+## 📫 Contact
+- 🐦 Twitter: [@ruzolut](https://x.com/ruzolut)
+- 📧 Email: [ruzolut@gmail.com](mailto:ruzolut@gmail.com)
+- 🗃️ GitHub: [github.com/ruzolut](https://github.com/ruzolut)
 
+## 💸 Donate
+If you'd like to support my work:
 
+```
+Solana: 6EAn8dRzgBPgth59Y5rd7i1c9qKT27vejttKdj3uP9fj
+Ethereum: 0x92740ba9128e558b4706AbfD5A17bf983560E2BC
+Bitcoin: bc1pcm0th0yndrr4tjhsmj7mfpuq0j8n8kvt0kvl3typ708dk5u59jmsmyuqnn
+```
+
+Thanks for checking out my work!
