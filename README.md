@@ -1,6 +1,6 @@
 # Hello, I'm Ruzolut
 
-I'm a software engineer currently building Fakyo Terminal — a blockchain-based platform for creating a permanent, verifiable public record of disapproval using Solana smart contracts.
+I'm a software engineer currently building Anger Terminal — a blockchain-based platform for creating a permanent, verifiable public record of disapproval using Solana smart contracts.
 
 ## 🧠 About Me
 - Background in full-stack development with a Master's in IT
