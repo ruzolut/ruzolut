@@ -1,16 +1,21 @@
-## Hi there 👋
+# Yo, I'm Ruzolut 🪼
 
-<!--
-**ruzolut/ruzolut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer currently building Angry Terminal — a blockchain-based platform for creating a permanent, verifiable public record of disapproval using Solana smart contracts.
 
-Here are some ideas to get you started:
+## About
+- Background in full-stack development with a Master's in IT
+- Currently focused on Solana, Rust (Anchor), and modern web3 stacks
+- Fluent in TypeScript and all the adjacent nonsense.
+- Interested in working on meaningful and technically challenging projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+X / Twitter: [@ruzolut](https://x.com/ruzolut) | Email: [ruzolut@gmail.com](mailto:ruzolut@gmail.com)
+
+## Support
+Every little help is appreciated
+
+```
+Solana: 6EAn8dRzgBPgth59Y5rd7i1c9qKT27vejttKdj3uP9fj
+Ethereum: 0x92740ba9128e558b4706AbfD5A17bf983560E2BC
+Bitcoin: bc1pcm0th0yndrr4tjhsmj7mfpuq0j8n8kvt0kvl3typ708dk5u59jmsmyuqnn
+```
