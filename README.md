@@ -1,6 +1,6 @@
 # Yo, I'm Ruzolut 🪼
 
-I'm a software engineer currently building AngryOSS — (Open Source Software) the birthplace of rebellious, web3-native tools.
+I'm a software engineer currently building AngryOSS — the birthplace of rebellious, web3-native tools.
 ## About
 - Background in full-stack development with a Master's in IT
 - Currently focused on Solana, Rust (Anchor), and modern web3 stacks
