@@ -11,7 +11,7 @@ I'm a software engineer currently building AngryOSS — the birthplace of rebell
 X / Twitter: [@ruzolut](https://x.com/ruzolut) | Email: [ruzolut@gmail.com](mailto:ruzolut@gmail.com)
 
 ## Donate
-Donations are much appreciated, donors will be shown on my deb website.
+Donations are much appreciated, donors will be shown on my dev website.
 
 ```
 Solana: 6MzJS92D4pmCHzRGnZP46cNkT8y64prjzBeJnanHem4Q
