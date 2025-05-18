@@ -11,10 +11,10 @@ I'm a software engineer currently building AngryOSS — the birthplace of rebell
 X / Twitter: [@ruzolut](https://x.com/ruzolut) | Email: [ruzolut@gmail.com](mailto:ruzolut@gmail.com)
 
 ## Donate
-Every little amount donated is much appreciated, donors will be shown on my profile 🔥
+Donations are much appreciated, donors will be shown on my deb website.
 
 ```
-Solana: AVLnpk599nrV68GKqF47TC8fQHcz6z5WwUc4mnZrt7c8
-Ethereum: 0xA226C0C6F72d37053864f9b2aB80edEf414C895D
-BTC (Taproot): bc1plxf6849n7k46hgcg2efmu5uagaa0xl9w6jghmlgptjypd9lrflnqxxxjs2
+Solana: 6MzJS92D4pmCHzRGnZP46cNkT8y64prjzBeJnanHem4Q
+Ethereum: 0xc476C03aBeC2D904d30ED223770b073340d0507d
+Bitcoin: bc1qhqx9n5d6wlyz4phn2lappualzvhanw0vq2a4th
 ```
