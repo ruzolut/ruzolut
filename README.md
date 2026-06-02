@@ -1,6 +1,7 @@
 # Yo, I'm Ruzolut 🪼
 
-I'm a software engineer currently building AngryOSS — the birthplace of rebellious, web3-native tools.
+I'm a software engineer currently building RevoltOSS.
+
 ## About
 - Background in full-stack development with a Master's in IT
 - Currently focused on Solana, Rust (Anchor), and modern web3 stacks
@@ -9,10 +10,3 @@ I'm a software engineer currently building AngryOSS — the birthplace of rebell
 
 ## Contact
 X / Twitter: [@ruzolut](https://x.com/ruzolut) | Email: [ruzolut@gmail.com](mailto:ruzolut@gmail.com)
-
-## Donate
-Donations are much appreciated, donors will be shown on my dev website.
-
-```
-Solana: ruzolut.sol
-```
