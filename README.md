@@ -1,4 +1,4 @@
-# Yo, I'm Ruzolut 🪼
+# Hi, I'm Bob 🪼
 
 I'm a software engineer currently building RevoltOSS.
 
